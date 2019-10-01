@@ -6,7 +6,7 @@ I have no idea what I'm doing or up to right now. Just writing something random 
 
 
 ### Getting Started
-This is a basic HTML / CSS / JavaScript build. If you don't know what any of these are, start here: www.mozilla.com 
+This is a basic HTML / CSS / JavaScript build. If you don't know what any of these are, start here: [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
 
 Clone this to the location of your choice, open in your favorite editor and start working!
 
